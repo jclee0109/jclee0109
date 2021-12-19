@@ -16,3 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jclee0109&show_icons=true&theme=radical)
+
+### Back-End
+- Django (main)
+- Spring
+
+### Language
+- Java
+- Python
+
+### DATA
+- Pandas
