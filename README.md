@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   - NULL
 
   #### Intermediate
-  - Django (main)
+  - Django 
+  - Django RestfulFremeWork (main)
 
   #### Experienced
   - Spring
