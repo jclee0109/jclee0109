@@ -34,7 +34,7 @@ GIST TimeTable Helper - Back-End & Lead
 2022 Google Solution Challenge - [Soridam](https://m.youtube.com/watch?v=LrO6cmoMTF4&feature=youtu.be)
 
 `2021.05~2021.10` 
-GIST AI Speacker Team - Back-End & Lead
+GIST AI Speaker Team - Back-End & Lead
 
 ### Back-End
   #### Advanced
