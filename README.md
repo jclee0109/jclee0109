@@ -42,7 +42,7 @@ GIST AI Speaker Team - Back-End & Lead
 
   #### Intermediate
   - Django 
-  - Django RestfulFremeWork (main)
+  - Django RestfulFrameWork (main)
 
   #### Experienced
   - Spring
