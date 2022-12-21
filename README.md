@@ -28,6 +28,9 @@ GroupBy Co. - Lead Back-End
 `2021.01~2021.03` 
 GIST TimeTable Helper - Back-End & Lead
 
+`2022.07~` 
+GIST ACSL Intern - Dynamic 3D Scene Graph
+
 **Side Project**
 
 `2022.03~2022.04`
