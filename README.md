@@ -61,6 +61,10 @@ GIST AI Speaker Team - Back-End & Lead
 ### GIST
 EECS
 
+### Education
+GIST - EECS
+BERKELEY - 2021 Summer Session
+
 ### LEADERSHIP
 GDSC GIST 22-23 LEAD
 
