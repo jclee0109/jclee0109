@@ -59,7 +59,7 @@ GIST AI Speaker Team - Back-End & Lead
 - Pandas
 
 ### GIST
-EECS
+EECS 19
 
 ### Education
 GIST - EECS
