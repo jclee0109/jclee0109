@@ -22,18 +22,18 @@ Here are some ideas to get you started:
 `2022.04~2022.09` 
 **Naver Clova🍀** - BE Internship
 
-`2021.09~2022.04` 
-GroupBy Co. - Lead Back-End
-
-`2021.01~2021.03` 
-GIST TimeTable Helper - Back-End & Lead
-
 `2022.09~2023.06` 
 [GIST ACSL](https://uehwan.github.io/) Research Intern - 3D Scene Graph / [Multi-task Learning for Scene Graph and Human Pose Estimation](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing)
 - Advisor : Ue-Hwan Kim
 
 `2022.08~2023.08`
 GDSC(Google Developer Student Clubs) GIST 22-23 LEAD
+
+`2021.09~2022.04` 
+GroupBy Co. - Lead Back-End
+
+`2021.01~2021.03` 
+GIST TimeTable Helper - Back-End & Lead
 
 
 ### Side Project
@@ -46,15 +46,9 @@ Teaching Assistant - Computer Systems Theory and Laboratory (Docker, Kubernetes,
 
 2023 Google Solution Challenge - [Here](https://www.youtube.com/watch?v=fGFpgem5E2Q)
 
-> Disaster and Keyword Alert Service for Individuals with Hearing Impairments Using Smart Watches
-> 
-
 `2022.03~2022.04`
 
 2022 Google Solution Challenge - [Soridam](https://m.youtube.com/watch?v=LrO6cmoMTF4&feature=youtu.be)
-
-> Elderly-focused family chat platform with audio and photo
->
 
 `2021.05~2021.10` 
 
@@ -101,6 +95,8 @@ GIST Creative Space G, AI&IoT 2022 10th Make-a-thon Contest Grand Prize 2022 (**
 
 “A Survey on 3D Scene Graphs: Definition, Generation and Application,” RiTA 2022
 
+`2023.08`
+
 ["Multi-task Learning for Scene Graph and Human Pose Estimation"](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing), 
 Bachelor's thesis
 
@@ -114,24 +110,13 @@ Bachelor's thesis
 
 ## Tech Stack
 ### Back-End
-  #### Advanced
-  - NULL
+  - Django, Django RestfulFrameWork (main), Spring, Docker, Kubernetes
 
-  #### Intermediate
-  - Django 
-  - Django RestfulFrameWork (main)
-
-  #### Experienced
-  - Spring
-  - Docker
-  - Kubernetes
-
-### DATA
-- Pandas
+### DATA & AI
+- Pytorch, Pandas, STATA
 
 ### Language
-- Java
-- Python
+- Python, Java
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjclee0109&count_bg=%2322963D&title_bg=%23DD1717&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
