@@ -70,7 +70,7 @@ UC Berkeley Summer Session
 
 ## 🏆Prize
 `2023.08`
-GIST Future Talent Award (GIST 미래인재상 : Special Award at Graduation) 
+GIST Future Talent Award (GIST 미래인재상 : **Special Award at Graduation**) 
 
 `2022.10`
 GIST Creative Space G, AI&IoT 2022 10th Make-a-thon Contest Grand Prize 2022 (**1st prize**)
@@ -85,7 +85,7 @@ Honam ICT Complex Coding Festival Excellence Prize **(3rd place)**
 
 `2023.08`
 ["Multi-task Learning for Scene Graph and Human Pose Estimation"](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing), 
-Bachelor's thesis
+Bachelor's thesis, GIST, 2023
 
 
 ## 💻Patent
