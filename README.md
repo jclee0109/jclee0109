@@ -39,36 +39,29 @@ GIST TimeTable Helper - Back-End & Lead
 ### Side Project
 
 `2023.03~2023.06`
-
 Teaching Assistant - Computer Systems Theory and Laboratory (Docker, Kubernetes, Kafka) at GIST
 
 `2023.03~2023.04`
-
 2023 Google Solution Challenge - [Here](https://www.youtube.com/watch?v=fGFpgem5E2Q)
 
 `2022.03~2022.04`
-
 2022 Google Solution Challenge - [Soridam](https://m.youtube.com/watch?v=LrO6cmoMTF4&feature=youtu.be)
 
 `2021.05~2021.10` 
-
 GIST AI Speaker Team - Back-End & Lead
 
 
 ## 🎓Education
 
 `2023.08~`
-
 KAIST, Data Science - M.S.
 
 `2019.03~2023.08`
-
 GIST, Electrical Engineering and Computer Science - B.S.
 
 GIST, Mathematics / Business - Minor
 
 `2021.06~2021.08`
-
 UC Berkeley Summer Session
 
 - **[CS61BL](https://cs61bl.org/su21/)** - Data Structures & Programming Methodology
@@ -77,26 +70,21 @@ UC Berkeley Summer Session
 
 ## 🏆Prize
 `2023.08`
-
 GIST Future Talent Award (GIST 미래인재상 : Special Award at Graduation) 
 
 `2021.07`
-
 Honam ICT Complex Coding Festival Excellence Prize **(3rd place)** 
 
 `2022.10`
-
 GIST Creative Space G, AI&IoT 2022 10th Make-a-thon Contest Grand Prize 2022 (**1st prize**)
 
 
 ## 📃Publication
 
 `2022.10`
-
 “A Survey on 3D Scene Graphs: Definition, Generation and Application,” RiTA 2022
 
 `2023.08`
-
 ["Multi-task Learning for Scene Graph and Human Pose Estimation"](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing), 
 Bachelor's thesis
 
@@ -104,9 +92,7 @@ Bachelor's thesis
 ## 💻Patent
 
 `2022.11`
-
 **SW CopyRight** - 3D Scene Graph Visualizer Software
-
 
 ## Tech Stack
 ### Back-End
