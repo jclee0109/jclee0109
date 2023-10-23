@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻Career(총 1년 1개월)
 
-**Main Project**
+### Main Project
 
 `2022.04~2022.09` 
 **Naver Clova🍀** - BE Internship
@@ -29,13 +29,15 @@ GroupBy Co. - Lead Back-End
 GIST TimeTable Helper - Back-End & Lead
 
 `2022.09~2023.06` 
-[**GIST ACSL](https://uehwan.github.io/) Research Intern** - 3D Scene Graph / [Multi-task Learning for Scene Graph and Human Pose Estimation](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing)
+[GIST ACSL](https://uehwan.github.io/) Research Intern - 3D Scene Graph / [Multi-task Learning for Scene Graph and Human Pose Estimation](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing)
 - Advisor : Ue-Hwan Kim
 
 `2022.08~2023.08`
 GDSC(Google Developer Student Clubs) GIST 22-23 LEAD
 
-**Side Project**
+
+### Side Project
+
 `2023.03~2023.06`
 
 Teaching Assistant - Computer Systems Theory and Laboratory (Docker, Kubernetes, Kafka) at GIST
@@ -55,15 +57,17 @@ Teaching Assistant - Computer Systems Theory and Laboratory (Docker, Kubernetes,
 >
 
 `2021.05~2021.10` 
+
 GIST AI Speaker Team - Back-End & Lead
+
 
 ## 🎓Education
 
-`2023.06~`
+`2023.08~`
 
-KAIST, Data Science - M.S. (Expected enrollment)
+KAIST, Data Science - M.S.
 
-`2019~`
+`2019.03~2023.08`
 
 GIST, Electrical Engineering and Computer Science - B.S.
 
@@ -75,6 +79,7 @@ UC Berkeley Summer Session
 
 - **[CS61BL](https://cs61bl.org/su21/)** - Data Structures & Programming Methodology
 - **[Data100](https://ds100.org/su21/)** - Principles and Techniques of Data Science
+
 
 ## 🏆Prize
 `2023.08`
@@ -89,19 +94,23 @@ Honam ICT Complex Coding Festival Excellence Prize **(3rd place)**
 
 GIST Creative Space G, AI&IoT 2022 10th Make-a-thon Contest Grand Prize 2022 (**1st prize**)
 
+
 ## 📃Publication
 
 `2022.10`
 
 “A Survey on 3D Scene Graphs: Definition, Generation and Application,” RiTA 2022
+
 ["Multi-task Learning for Scene Graph and Human Pose Estimation"](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing), 
 Bachelor's thesis
+
 
 ## 💻Patent
 
 `2022.11`
 
 **SW CopyRight** - 3D Scene Graph Visualizer Software
+
 
 ## Tech Stack
 ### Back-End
