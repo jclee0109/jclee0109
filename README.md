@@ -72,12 +72,11 @@ UC Berkeley Summer Session
 `2023.08`
 GIST Future Talent Award (GIST 미래인재상 : Special Award at Graduation) 
 
-`2021.07`
-Honam ICT Complex Coding Festival Excellence Prize **(3rd place)** 
-
 `2022.10`
 GIST Creative Space G, AI&IoT 2022 10th Make-a-thon Contest Grand Prize 2022 (**1st prize**)
 
+`2021.07`
+Honam ICT Complex Coding Festival Excellence Prize **(3rd place)** 
 
 ## 📃Publication
 
