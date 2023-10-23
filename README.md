@@ -28,17 +28,82 @@ GroupBy Co. - Lead Back-End
 `2021.01~2021.03` 
 GIST TimeTable Helper - Back-End & Lead
 
-`2022.07~` 
-GIST ACSL Intern - Dynamic 3D Scene Graph
+`2022.09~2023.06` 
+[**GIST ACSL](https://uehwan.github.io/) Research Intern** - 3D Scene Graph / [Multi-task Learning for Scene Graph and Human Pose Estimation](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing)
+- Advisor : Ue-Hwan Kim
+
+`2022.08~2023.08`
+GDSC(Google Developer Student Clubs) GIST 22-23 LEAD
 
 **Side Project**
+`2023.03~2023.06`
+
+Teaching Assistant - Computer Systems Theory and Laboratory (Docker, Kubernetes, Kafka) at GIST
+
+`2023.03~2023.04`
+
+2023 Google Solution Challenge - [Here](https://www.youtube.com/watch?v=fGFpgem5E2Q)
+
+> Disaster and Keyword Alert Service for Individuals with Hearing Impairments Using Smart Watches
+> 
 
 `2022.03~2022.04`
+
 2022 Google Solution Challenge - [Soridam](https://m.youtube.com/watch?v=LrO6cmoMTF4&feature=youtu.be)
+
+> Elderly-focused family chat platform with audio and photo
+>
 
 `2021.05~2021.10` 
 GIST AI Speaker Team - Back-End & Lead
 
+## 🎓Education
+
+`2023.06~`
+
+KAIST, Data Science - M.S. (Expected enrollment)
+
+`2019~`
+
+GIST, Electrical Engineering and Computer Science - B.S.
+
+GIST, Mathematics / Business - Minor
+
+`2021.06~2021.08`
+
+UC Berkeley Summer Session
+
+- **[CS61BL](https://cs61bl.org/su21/)** - Data Structures & Programming Methodology
+- **[Data100](https://ds100.org/su21/)** - Principles and Techniques of Data Science
+
+## 🏆Prize
+`2023.08`
+
+GIST Future Talent Award (GIST 미래인재상 : Special Award at Graduation) 
+
+`2021.07`
+
+Honam ICT Complex Coding Festival Excellence Prize **(3rd place)** 
+
+`2022.10`
+
+GIST Creative Space G, AI&IoT 2022 10th Make-a-thon Contest Grand Prize 2022 (**1st prize**)
+
+## 📃Publication
+
+`2022.10`
+
+“A Survey on 3D Scene Graphs: Definition, Generation and Application,” RiTA 2022
+["Multi-task Learning for Scene Graph and Human Pose Estimation"](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing), 
+Bachelor's thesis
+
+## 💻Patent
+
+`2022.11`
+
+**SW CopyRight** - 3D Scene Graph Visualizer Software
+
+## Tech Stack
 ### Back-End
   #### Advanced
   - NULL
@@ -51,22 +116,13 @@ GIST AI Speaker Team - Back-End & Lead
   - Spring
   - Docker
   - Kubernetes
-### Language
-- Java
-- Python
 
 ### DATA
 - Pandas
 
-### GIST
-EECS 19
-
-### Education
-GIST - EECS
-BERKELEY - 2021 Summer Session
-
-### LEADERSHIP
-GDSC GIST 22-23 LEAD
+### Language
+- Java
+- Python
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjclee0109&count_bg=%2322963D&title_bg=%23DD1717&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
