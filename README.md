@@ -20,17 +20,13 @@ Here are some ideas to get you started:
 `2023.08~`
 KAIST, Data Science - M.S.
 
-`2019.03~2023.08`
-GIST, Electrical Engineering and Computer Science - B.S.
-
-GIST, Mathematics / Business - Minor
-
 `2021.06~2021.08`
-UC Berkeley Summer Session
-
+UC Berkeley, Summer Session
 - **[CS61BL](https://cs61bl.org/su21/)** - Data Structures & Programming Methodology
 - **[Data100](https://ds100.org/su21/)** - Principles and Techniques of Data Science
 
+`2019.03~2023.08`
+GIST, Electrical Engineering and Computer Science - B.S. ; Mathematics / Business - Minor
 
 ## 👨‍💻Career(총 1년 1개월)
 
