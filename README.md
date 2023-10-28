@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 ## 🎓Education
 
 `2023.08~`
-KAIST, Data Science - M.S. Student
+KAIST, Data Science M.S. Student
 
 `2021.06~2021.08`
-UC Berkeley, Summer Session
-- **[CS61BL](https://cs61bl.org/su21/)** - Data Structures & Programming Methodology
-- **[Data100](https://ds100.org/su21/)** - Principles and Techniques of Data Science
+UC Berkeley, Exchange Student in Summer Session
+- [CS61BL](https://cs61bl.org/su21/) - Data Structures & Programming Methodology
+- [Data100](https://ds100.org/su21/) - Principles and Techniques of Data Science
 
 `2019.03~2023.08`
-GIST, Electrical Engineering and Computer Science - B.S. ; Mathematics / Business - Minor
+GIST, B.S. Electrical Engineering and Computer Science ; Minor in Mathematics / Business
 
 ## 👨‍💻Career(총 1년 1개월)
 
@@ -35,17 +35,15 @@ GIST, Electrical Engineering and Computer Science - B.S. ; Mathematics / Busines
 `2022.09~2023.06` 
 [GIST ACSL](https://uehwan.github.io/) Research Intern - 3D Scene Graph / [Multi-task Learning for Scene Graph and Human Pose Estimation](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing) - Advisor : Ue-Hwan Kim
 
-`2022.08~2023.08`
-GDSC(Google Developer Student Clubs) GIST 22-23 LEAD
+`2022.08~2023.08` [GDSC(Google Developer Student Clubs) GIST](https://www.instagram.com/gdsc_kr_gist/) 22-23 LEAD 
 
 `2022.04~2022.09` 
-**Naver Clova🍀** - BE Internship
+**Naver Clova🍀** - DataAI, Back-End Internship
 
-`2021.09~2022.04` 
-GroupBy Co. - Lead Back-End
+`2021.09~2022.04` [GroupBy Co.](https://groupby.kr/) - Platform Team, Lead(Back-End)
 
 `2021.01~2021.03` 
-GIST TimeTable Helper - Back-End & Lead
+[GIST TimeTable Helper](https://honored-seeder-7f8.notion.site/68dd615545bd46fdbe656be79392217d?pvs=4) - Founder(Lead), Back-End
 
 
 ### Side Project
@@ -76,7 +74,7 @@ Honam ICT Complex Coding Festival Excellence Prize **(3rd place)**
 ## 📃Publication
 
 `2022.10`
-“A Survey on 3D Scene Graphs: Definition, Generation and Application,” RiTA 2022
+[“A Survey on 3D Scene Graphs: Definition, Generation and Application,”](https://link.springer.com/chapter/10.1007/978-3-031-26889-2_13) RiTA 2022
 
 `2023.08`
 ["Multi-task Learning for Scene Graph and Human Pose Estimation"](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing), 
