@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 ### Main Project
 
 `2022.09~2023.06` 
-[GIST ACSL](https://uehwan.github.io/) Research Intern - 3D Scene Graph / [Multi-task Learning for Scene Graph and Human Pose Estimation](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing)
-- Advisor : Ue-Hwan Kim
+[GIST ACSL](https://uehwan.github.io/) Research Intern - 3D Scene Graph / [Multi-task Learning for Scene Graph and Human Pose Estimation](https://drive.google.com/file/d/1zT8iAhl9nD8gbxqDnlr8HfE9hkQEZq-o/view?usp=sharing) - Advisor : Ue-Hwan Kim
 
 `2022.08~2023.08`
 GDSC(Google Developer Student Clubs) GIST 22-23 LEAD
