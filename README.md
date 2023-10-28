@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🎓Education
 
 `2023.08~`
-KAIST, Data Science - M.S.
+KAIST, Data Science - M.S. Student
 
 `2021.06~2021.08`
 UC Berkeley, Summer Session
