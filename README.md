@@ -15,6 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🎓Education
+
+`2023.08~`
+KAIST, Data Science - M.S.
+
+`2019.03~2023.08`
+GIST, Electrical Engineering and Computer Science - B.S.
+
+GIST, Mathematics / Business - Minor
+
+`2021.06~2021.08`
+UC Berkeley Summer Session
+
+- **[CS61BL](https://cs61bl.org/su21/)** - Data Structures & Programming Methodology
+- **[Data100](https://ds100.org/su21/)** - Principles and Techniques of Data Science
+
+
 ## 👨‍💻Career(총 1년 1개월)
 
 ### Main Project
@@ -48,23 +65,6 @@ Teaching Assistant - Computer Systems Theory and Laboratory (Docker, Kubernetes,
 
 `2021.05~2021.10` 
 GIST AI Speaker Team - Back-End & Lead
-
-
-## 🎓Education
-
-`2023.08~`
-KAIST, Data Science - M.S.
-
-`2019.03~2023.08`
-GIST, Electrical Engineering and Computer Science - B.S.
-
-GIST, Mathematics / Business - Minor
-
-`2021.06~2021.08`
-UC Berkeley Summer Session
-
-- **[CS61BL](https://cs61bl.org/su21/)** - Data Structures & Programming Methodology
-- **[Data100](https://ds100.org/su21/)** - Principles and Techniques of Data Science
 
 
 ## 🏆Prize
@@ -108,4 +108,5 @@ Bachelor's thesis, GIST, 2023
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljc2401)](https://solved.ac/ljc2401/)
 
-
+## ☎️Contact
+📧**Mail** : juchan015326@gmail.com
