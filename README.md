@@ -22,8 +22,6 @@ KAIST, Data Science M.S. Student
 
 `2021.06~2021.08`
 UC Berkeley, Exchange Student in Summer Session
-- [CS61BL](https://cs61bl.org/su21/) - Data Structures & Programming Methodology
-- [Data100](https://ds100.org/su21/) - Principles and Techniques of Data Science
 
 `2019.03~2023.08`
 GIST, B.S. Electrical Engineering and Computer Science ; Minor in Mathematics / Business
