@@ -24,7 +24,7 @@ KAIST, Data Science M.S. Student
 UC Berkeley, Exchange Student in Summer Session
 
 `2019.03~2023.08`
-GIST, B.S. Electrical Engineering and Computer Science ; Minor in Mathematics / Business
+GIST, B.S. Electrical Engineering and Computer Science ; Double Minor in Mathematics & Business Management
 
 ## 👨‍💻Career(총 1년 1개월)
 
